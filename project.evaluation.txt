@@ -1,0 +1,10 @@
+Linux tests: OK
+Minix tests: OK
+Interactive features:
+	- incorect info about terminated background processes
+Implementation errors: OK
+Code Quality:
+	- spaghetti code
+
+Overall evaluation: 28/30
+
